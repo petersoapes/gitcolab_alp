@@ -1,6 +1,3 @@
 #load FASTA file into script
-^x
-^X
-^x
-
+#Function to remove useless headers from file
 
